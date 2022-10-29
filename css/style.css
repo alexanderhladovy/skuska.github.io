@@ -53,8 +53,9 @@ th, td{
     border: 2px solid brown;
 }
 table{
-    margin-left: 33%;
-    margin-right: 33%;    
+    margin-left: auto;
+    margin-right: auto;    
+    
 }
 .topnav {
     background-color: #CFCDCC;
@@ -66,7 +67,7 @@ table{
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 25px;
     font-family: "Lucida Handwriting";
 }
 .topnav a:hover {
@@ -82,7 +83,7 @@ table{
     background-image: url('back.png');
 }
 .logo-image{
-    width: 56px;
+    width: 68px;
     height: auto;
     border-radius: 25%;
     overflow: hidden;
