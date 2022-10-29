@@ -52,10 +52,7 @@ body{
     padding: 0 .25rem;
     transition: color .5s ease-in-out, box-shadow .5s ease-in-out;
 }
-a:hover {
-    box-shadow: inset 580px 0 0 0 #CFCDCC;
-    color: darkred;
-}
+
 .logo-image{
     width: 68px;
     height: auto;
