@@ -7,7 +7,7 @@ h1{
     text-shadow: 4px 4px #CFCDCC;
 }
 body{
-    background-color: blanchedalmond;
+    background-color: blanchedalmond ;
     background-image: url("obrazky/logo.png");
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -46,7 +46,7 @@ body{
     width: 200px;
     height: 200px;
 }
-th, td{
+.img{
     margin-left: 33%;
     margin-right: 33%;
     box-shadow: 10px solid #CFCDCC;
@@ -60,6 +60,7 @@ table{
 .topnav {
     background-color: #CFCDCC;
     overflow: hidden;
+    width: 100%;
 } 
 .topnav a {
     float: left;
